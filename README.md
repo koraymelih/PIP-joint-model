@@ -1,1 +1,1 @@
-# PIP-joint-model
+# PIP/DIP joint model
